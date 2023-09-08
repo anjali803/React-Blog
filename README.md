@@ -21,6 +21,6 @@ Then start the back-end using 'npx json-server --watch data/db.json --port 8000'
 Then start the React using 'npm start'<br>
 Open in Browser 'http://localhost:3000/'
 
-## Some on the snapshots 
+## Some of the snapshots 
 
 
