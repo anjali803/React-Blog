@@ -16,7 +16,11 @@ Perfect for beginners looking to learn React.js.<br>
 
 ## How to Use:
 
-Clone the repository to your local machine.<br>
-Install the required dependencies using npm install.<br>
-Start the development server with npm start.<br>
-Explore and customize the blog to your liking.<br>
+Download, Open and Run 'npm i'<br>
+Then start the back-end using 'npx json-server --watch data/db.json --port 8000'<br>
+Then start the React using 'npm start'<br>
+Open in Browser 'http://localhost:3000/'
+
+## Some on the snapshots 
+
+
